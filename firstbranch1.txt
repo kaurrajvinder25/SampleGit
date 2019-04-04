@@ -1,1 +1,3 @@
 first branch created first and firstbranch1 text file is added
+
+after merging== changes are made that will remain in first branch untill commit
